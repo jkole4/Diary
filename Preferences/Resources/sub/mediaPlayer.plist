@@ -42,7 +42,19 @@
 			<key>label</key>
 			<string>Artwork transition</string>
 		</dict>
-
+		// Get Background Color from Media Artwork
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>love.litten.diarypreferences</string>
+			<key>key</key>
+			<string>mediaPlayerAlbumBackgroundColor</string>
+			<key>label</key>
+			<string>Get Background Color from Media Artwork</string>
+		</dict>
 		<dict>
 			<key>cell</key>
 			<string>PSGroupCell</string>
