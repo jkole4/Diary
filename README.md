@@ -4,12 +4,12 @@ Dear diary..
 A Window's Inspired Lockscreen Made By [schneelittchen](https://twitter.com/schneelittchen)
 
 ## Installation & Compiling
-1. Add This Repository To Your Package Manager For Original Version Of Diary: https://repo.litten.love
-2. Alternatively You Can Compile This Version with Theos
+1. Add This Repository To Your Package Manager For The Original Version Of Diary: https://repo.litten.love
+2. Alternatively You Can Compile This Version With Theos
 3. Install Diary
 
-  - Depends on libGCUniversal & libPDDokdo
-  - You may want to edit the `Makefiles` to suit your theos installation
+  - Depends On libGCUniversal & libPDDokdo
+  - You May Want To Edit The `Makefiles` To Suit Your Theos Installation
 
 libGCUniversal
 https://github.com/MrGcGamer/LibGcUniversalDocumentation
