@@ -42,7 +42,6 @@
 			<key>label</key>
 			<string>Artwork transition</string>
 		</dict>
-		// Get Background Color from Media Artwork
 		<dict>
 			<key>cell</key>
 			<string>PSSwitchCell</string>
