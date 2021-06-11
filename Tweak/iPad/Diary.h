@@ -48,6 +48,7 @@ BOOL isTimerRunning = NO;
 // media player
 BOOL enableMediaPlayerSwitch = YES;
 BOOL artworkTransitionSwitch = NO;
+BOOL mediaPlayerAlbumBackgroundColor = NO;
 NSString* mediaPlayerBackgroundAmountValue = @"1";
 
 CGRect originalCoverSheetFrame;
